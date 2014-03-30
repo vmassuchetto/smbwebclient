@@ -1,0 +1,11 @@
+# Vi
+*~
+*.swp
+*.swo
+
+# Vagrant
+Vagrantfile
+.vagrant
+
+# SMBWebClient
+smbwebclient-config.php

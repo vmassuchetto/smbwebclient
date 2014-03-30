@@ -1,0 +1,21 @@
+body { margin-top:1em; }
+table thead tr th,
+table thead tr td,
+table tfoot tr th,
+table tfoot tr td,
+table tr th,
+table tr td {
+    padding: 0.2625rem 0.625rem;
+}
+input[type="file"],
+input[type="checkbox"],
+input[type="radio"],
+select {
+    margin: 0;
+}
+select {
+    width: 200px;
+}
+.bottom0 {
+    margin-bottom: 0 !important;
+}
