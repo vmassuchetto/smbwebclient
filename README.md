@@ -2,9 +2,8 @@
 
 [`smbwebclient.php`](http://sourceforge.net/projects/smbwebclient/) is a simple
 PHP script that allows users to access Windows networks from a Web browser
-(using Samba tools).
-
-This is an adaptation for a responsive layout using [Foundation](http://foundation.zurb.com/). This is how it looks like:
+(using Samba tools). This is an adaptation for a responsive layout using
+[Foundation](http://foundation.zurb.com/). This is how it looks like:
 
 ![Screenshot](https://raw.github.com/vmassuchetto/smbwebclient/master/style/screenshot.jpg)
 
