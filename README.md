@@ -4,7 +4,7 @@
 PHP script that allows users to access Windows networks from a Web browser
 (using Samba tools). This is an adaptation for a responsive layout using
 [Foundation](http://foundation.zurb.com/), instead of the [_itchish_
-Windows-XP-like original interface](https://a.fsdn.com/con/app/proj/smbwebclient/screenshots/8853.jpg/182/137).
+Windows-XP-like original interface](https://a.fsdn.com/con/app/proj/smbwebclient/screenshots/8853.jpg).
 This is how it looks like:
 
 ![Screenshot](https://raw.github.com/vmassuchetto/smbwebclient/master/style/screenshot.jpg)
