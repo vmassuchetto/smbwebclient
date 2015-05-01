@@ -11,11 +11,7 @@ This is how it looks like:
 
 ## Installation and Configuration
 
-Make sure you have `smbclient` installed in your server, like in Debian/Ubuntu:
-
-    sudo apt-get install smbwebclient
-
-Clone the project to an available web directory:
+Make sure you have `smbclient` installed in your server, and then clone the project to an available web directory:
 
     git clone http://github.com/vmassuchetto/smbwebclient.git smbwebclient
 
